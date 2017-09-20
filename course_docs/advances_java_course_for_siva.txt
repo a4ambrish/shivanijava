@@ -1,0 +1,48 @@
+1. Candidate should have knowledge of basic java.
+2. Must able to devote 3-5 hrs per day / 8-12 hrs on weekend.
+
+---------------------------------------------------------------------------------
+1. Servlet
+2. Html
+3. Java Script
+4. Jquery (Basic)
+
+5. JSF With Primeface(Basic) / SpringWebMVC / Struts2 MVC / AngularJS (View Technologies)
+6. Web Security 
+	CORS attack
+	SessionFixaction Attack
+	SQL injection
+	Resource Security
+
+7. SVN (Source Code Versioning) / Git 
+8. HTTP Protocol Basics
+9. ReST WebService
+10 ReST Consumer
+11 Tools
+	WinSCP (For Accessing Linux OS Files Systems)
+	Putty (For Linux OS Command Line)
+	WinMerge (Source Code Comparing Tool)
+	Firefox Bugzilla (HTML Debugging Tool)
+	Chrome Postman (API Test)
+12 JUnit (For testing)
+13 JMeter (For perfomance testing)
+14 Burp Tool suit (for security testing)
+15 Apache Tomcat Administration (Basic)
+	Port Management
+	Setting up SSL certificates
+	Tuning various parameters
+16 Eclipse Basics
+       Debuging Mode
+       Plugin Management
+17. Linux (Basic)
+19. Maven (For build management)
+20. Jaspersoft IReport (For document prining in PDFs/HTML format)
+21. JavaMail API (for sending emails)
+22. Quartz
+23. Bean Validation API
+
+--------------------------------------------------------------------------------
+A complete live project developemt in which we will practice all above mentioned tool and technologies
+--------------------------------------------------------------------------------
+
+
