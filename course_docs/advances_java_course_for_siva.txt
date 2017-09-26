@@ -46,3 +46,5 @@ A complete live project developemt in which we will practice all above mentioned
 --------------------------------------------------------------------------------
 
 24. Hibernate 
+ok accespted.
+
