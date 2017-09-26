@@ -45,4 +45,4 @@
 A complete live project developemt in which we will practice all above mentioned tool and technologies
 --------------------------------------------------------------------------------
 
-
+24. Hibernate 
