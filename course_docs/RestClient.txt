@@ -1,0 +1,40 @@
+REST Service
+
+ReST --- Represetantional State Transfer.
+State of Object/Entity 
+HTTP Verb
+
+
+POST -- Insert query / resource/record creation
+--- 
+--Idempotent---
+GET -- Retrive
+ PUT-- Update query
+DELETE -- 
+HEAD --
+
+An idempotent HTTP method is a HTTP method that can be called many times without different outcomes. It would not matter if the method is called only once, or ten times over. The result should be the same. ... Since POST is not a idempotent method, calling it multiple times can result in wrong updates.
+-----
+The methods GET, HEAD, PUT and DELETE share this property. Also, the methods OPTIONS and TRACE SHOULD NOT have side effects, and so are inherently idempotent. However, it is possible that a sequence of several requests is non- idempotent, even if all of the methods executed in that sequence are idempotent.
+----
+
+
+QueryParam	
+Binds the value(s) of a HTTP query parameter to a resource method parameter, resource class field, or resource class bean property.
+
+PathParam	
+Binds the value of a URI template parameter or a path segment containing the template parameter to a resource method parameter, resource class field, or resource class bean property.
+
+MatrixParam	
+Binds the value(s) of a URI matrix parameter to a resource method parameter, resource class field, or resource class bean property.
+
+HeaderParam	
+Binds the value(s) of a HTTP header to a resource method parameter, resource class field, or resource class bean property.
+FormParam	
+Binds the value(s) of a form parameter contained within a request entity body to a resource method parameter.
+
+CookieParam	
+Binds the value of a HTTP cookie to a resource method parameter, resource class field, or resource class bean property.
+
+BeanParam	
+The annotation that may be used to inject custom JAX-RS "parameter aggregator" value object into a resource class field, property or resource method parameter.
